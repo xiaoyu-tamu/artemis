@@ -10,7 +10,7 @@ environment:
 dependencies:
   build_config: ^0.4.6
   build: ^1.6.3
-  gql_code_builder: ^0.1.5-alpha+1612972259656
+  gql_code_builder: ^0.2.0-nullsafety.0
   gql_dedupe_link: ^2.0.0-nullsafety.1
   gql_exec: ^0.3.0-nullsafety.1
   gql_http_link: ^0.4.0-nullsafety.1
